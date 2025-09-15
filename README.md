@@ -42,9 +42,8 @@ Este projeto é ideal para quem deseja aprender mais sobre computação gráfica
 
 Aqui está uma captura de tela da interface gráfica do simulador:
 
-![Demonstração do Cubo Mágico](https://github.com/user-attachments/assets/697615fb-79bf-4cd5-8cd2-c61c50fd633e)
+<img width="559" height="529" alt="image" src="https://github.com/user-attachments/assets/9c645e22-3365-4b97-b87c-e113ed5b02e9" />
 
-<img width="715" height="601" alt="{4B8CB6F0-D48B-4EC6-BDFA-43076876A40A}" src="https://github.com/user-attachments/assets/5635d0b5-0795-4195-b692-7caddd1f5ffa" />
 
 ---
 
